@@ -22,5 +22,5 @@ echo "src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git;main"
 # git clone https://github.com/WukongMaster/luci-app-poweroff.git package/luci-app-poweroff
 # echo "src-git poweroff https://github.com/WukongMaster/luci-app-poweroff.git;main" >> feeds.conf.default
 # Add feed sources
-echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >> feeds.conf.default
-echo 'src-git small https://github.com/kenzok8/small' >> feeds.conf.default
+# echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >> feeds.conf.default
+# echo 'src-git small https://github.com/kenzok8/small' >> feeds.conf.default
